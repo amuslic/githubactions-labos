@@ -1,6 +1,6 @@
 from functions import greet
 
 name = "World"
-greeting= greet(name)
+greeting = greet(name)
 
 print(greeting)
